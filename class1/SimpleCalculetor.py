@@ -1,5 +1,5 @@
-number1=bool(input("Enter your first Number :"))
-number2=bool(input("Enter your second Number :"))
+number1=float(input("Enter your first Number :"))
+number2=float(input("Enter your second Number :"))
 add=number1+number2
 sub=number1-number2
 mult=number1*number2
